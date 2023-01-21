@@ -2,5 +2,5 @@ Intinya ini tu gampang banget loch! ini tu bentuk biner code. Nah coba sekarang 
 
 Wahhh apaan tuech??
 
-Hint : 1.Binary
+Hint : <br>1.Binary<br>
        2.Udah tau tadi udah ngelewati soal kayak ini kok 
