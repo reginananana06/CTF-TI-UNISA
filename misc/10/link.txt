@@ -1,2 +1,2 @@
 link :
-    https://reginananana06.github.io/robots.txt
+    https://PKyouka.github.io/robots.txt
