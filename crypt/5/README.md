@@ -1,4 +1,4 @@
-Intinya ini tu gampang banget loch! ini tu bentuk biner code. Nah coba sekarang kamu translate biar kelihatan apa rahasia didalam ini.. 
+Intinya ini tu gampang banget loch! ini tu bentuk biner code. Nah coba sekarang kamu translate biar kelihatan apa rahasia didalam ini.
 
 Wahhh apaan tuech??
 
