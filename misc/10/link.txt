@@ -1,0 +1,2 @@
+link :
+    https://reginananana06.github.io/robots.txt
